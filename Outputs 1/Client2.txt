@@ -1,0 +1,384 @@
+
+C:\Users\Vijaychander\Desktop\CS6378 - Project 2\Client2>java Client2
+Connection Disrupted
+No Acknowledgement recieved
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :2
+Connection Disrupted
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+End of one iteration :4
+Connection Disrupted
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+End of one iteration :6
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+End of one iteration :7
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :8
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+End of one iteration :9
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+End of one iteration :10
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :11
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+End of one iteration :12
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+End of one iteration :13
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+End of one iteration :14
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+End of one iteration :15
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+End of one iteration :16
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+End of one iteration :17
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+End of one iteration :18
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :19
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+End of one iteration :20
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+End of one iteration :21
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+End of one iteration :22
+No Acknowledgement recieved
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+End of one iteration :23
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :24
+Connection Disrupted
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+End of one iteration :26
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+End of one iteration :27
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :28
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+End of one iteration :29
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :30
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+End of one iteration :31
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+End of one iteration :32
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+End of one iteration :33
+Connection Disrupted
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+End of one iteration :35
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+End of one iteration :36
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+End of one iteration :37
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+End of one iteration :38
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+End of one iteration :39
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+End of one iteration :40
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+End of one iteration :41
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+End of one iteration :42
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+End of one iteration :43
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+End of one iteration :44
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+End of one iteration :45
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :46
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+End of one iteration :47
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :48
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+End of one iteration :49
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+End of one iteration :50
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+End of one iteration :51
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+End of one iteration :52
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :53
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+End of one iteration :54
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+End of one iteration :55
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+End of one iteration :56
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :57
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :58
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+End of one iteration :59
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+End of one iteration :60
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+End of one iteration :61
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+End of one iteration :62
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+End of one iteration :63
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+End of one iteration :64
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :65
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :66
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+End of one iteration :67
+Connection Disrupted
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+End of one iteration :69
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+End of one iteration :70
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :71
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+End of one iteration :72
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+End of one iteration :73
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+End of one iteration :74
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :75
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :76
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+End of one iteration :77
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+End of one iteration :78
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+End of one iteration :79
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :80
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+End of one iteration :81
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+End of one iteration :82
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+End of one iteration :83
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+End of one iteration :84
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :85
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+End of one iteration :86
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+End of one iteration :87
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+End of one iteration :88
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+End of one iteration :89
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+End of one iteration :90
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+End of one iteration :91
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+End of one iteration :92
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :93
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+End of one iteration :94
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+>> Client 2 recieves a successful ack from server 2
+End of one iteration :95
+>> Client 2 recieves a successful ack from server 2
+>> Client 2 recieves a successful ack from server 3
+>> Client 2 recieves a successful ack from server 4
+End of one iteration :96
+No Acknowledgement recieved
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+End of one iteration :97
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+End of one iteration :98
+>> Client 2 recieves a successful ack from server 6
+>> Client 2 recieves a successful ack from server 7
+>> Client 2 recieves a successful ack from server 1
+End of one iteration :99
+>> Client 2 recieves a successful ack from server 4
+>> Client 2 recieves a successful ack from server 5
+>> Client 2 recieves a successful ack from server 6
+End of one iteration :100

@@ -1,0 +1,372 @@
+
+C:\Users\Vijaychander\Desktop\CS6378 - Project 2\Client5>java Client5
+Connection Disrupted
+No Acknowledgement recieved
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 3
+End of one iteration :2
+No Acknowledgement recieved
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 6
+End of one iteration :3
+>> Client 5 recieves a successful ack from server 4
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 6
+End of one iteration :4
+No Acknowledgement recieved
+No Acknowledgement recieved
+No Acknowledgement recieved
+End of one iteration :5
+>> Client 5 recieves a successful ack from server 6
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 1
+End of one iteration :6
+>> Client 5 recieves a successful ack from server 6
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 1
+End of one iteration :7
+>> Client 5 recieves a successful ack from server 5
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 7
+End of one iteration :8
+>> Client 5 recieves a successful ack from server 3
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 5
+End of one iteration :9
+>> Client 5 recieves a successful ack from server 2
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 4
+End of one iteration :10
+Connection Disrupted
+>> Client 5 recieves a successful ack from server 6
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 1
+End of one iteration :12
+>> Client 5 recieves a successful ack from server 1
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 3
+End of one iteration :13
+No Acknowledgement recieved
+No Acknowledgement recieved
+No Acknowledgement recieved
+End of one iteration :14
+No Acknowledgement recieved
+No Acknowledgement recieved
+No Acknowledgement recieved
+End of one iteration :15
+Connection Disrupted
+>> Client 5 recieves a successful ack from server 7
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 2
+End of one iteration :17
+>> Client 5 recieves a successful ack from server 7
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 2
+End of one iteration :18
+>> Client 5 recieves a successful ack from server 4
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 6
+End of one iteration :19
+>> Client 5 recieves a successful ack from server 3
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 5
+End of one iteration :20
+>> Client 5 recieves a successful ack from server 7
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 2
+End of one iteration :21
+Connection Disrupted
+>> Client 5 recieves a successful ack from server 5
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 7
+End of one iteration :23
+No Acknowledgement recieved
+No Acknowledgement recieved
+No Acknowledgement recieved
+End of one iteration :24
+No Acknowledgement recieved
+No Acknowledgement recieved
+No Acknowledgement recieved
+End of one iteration :25
+>> Client 5 recieves a successful ack from server 1
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 3
+End of one iteration :26
+>> Client 5 recieves a successful ack from server 1
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 3
+End of one iteration :27
+>> Client 5 recieves a successful ack from server 6
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 1
+End of one iteration :28
+No Acknowledgement recieved
+No Acknowledgement recieved
+No Acknowledgement recieved
+End of one iteration :29
+No Acknowledgement recieved
+No Acknowledgement recieved
+No Acknowledgement recieved
+End of one iteration :30
+No Acknowledgement recieved
+No Acknowledgement recieved
+No Acknowledgement recieved
+End of one iteration :31
+>> Client 5 recieves a successful ack from server 2
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 4
+End of one iteration :32
+>> Client 5 recieves a successful ack from server 6
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 1
+End of one iteration :33
+>> Client 5 recieves a successful ack from server 6
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 1
+End of one iteration :34
+>> Client 5 recieves a successful ack from server 6
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 1
+End of one iteration :35
+>> Client 5 recieves a successful ack from server 1
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 3
+End of one iteration :36
+>> Client 5 recieves a successful ack from server 5
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 7
+End of one iteration :37
+>> Client 5 recieves a successful ack from server 2
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 4
+End of one iteration :38
+Connection Disrupted
+>> Client 5 recieves a successful ack from server 5
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 7
+End of one iteration :40
+>> Client 5 recieves a successful ack from server 4
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 6
+End of one iteration :41
+>> Client 5 recieves a successful ack from server 6
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 1
+End of one iteration :42
+Connection Disrupted
+>> Client 5 recieves a successful ack from server 5
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 7
+End of one iteration :44
+No Acknowledgement recieved
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 4
+End of one iteration :45
+No Acknowledgement recieved
+No Acknowledgement recieved
+No Acknowledgement recieved
+End of one iteration :46
+>> Client 5 recieves a successful ack from server 6
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 1
+End of one iteration :47
+>> Client 5 recieves a successful ack from server 1
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 3
+End of one iteration :48
+>> Client 5 recieves a successful ack from server 2
+No Acknowledgement recieved
+No Acknowledgement recieved
+End of one iteration :49
+No Acknowledgement recieved
+No Acknowledgement recieved
+No Acknowledgement recieved
+End of one iteration :50
+>> Client 5 recieves a successful ack from server 2
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 4
+End of one iteration :51
+>> Client 5 recieves a successful ack from server 2
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 4
+End of one iteration :52
+>> Client 5 recieves a successful ack from server 4
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 6
+End of one iteration :53
+Connection Disrupted
+>> Client 5 recieves a successful ack from server 7
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 2
+End of one iteration :55
+>> Client 5 recieves a successful ack from server 2
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 4
+End of one iteration :56
+>> Client 5 recieves a successful ack from server 4
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 6
+End of one iteration :57
+>> Client 5 recieves a successful ack from server 4
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 6
+End of one iteration :58
+>> Client 5 recieves a successful ack from server 1
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 3
+End of one iteration :59
+>> Client 5 recieves a successful ack from server 7
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 2
+End of one iteration :60
+>> Client 5 recieves a successful ack from server 5
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 7
+End of one iteration :61
+No Acknowledgement recieved
+No Acknowledgement recieved
+No Acknowledgement recieved
+End of one iteration :62
+>> Client 5 recieves a successful ack from server 5
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 7
+End of one iteration :63
+>> Client 5 recieves a successful ack from server 2
+No Acknowledgement recieved
+No Acknowledgement recieved
+End of one iteration :64
+>> Client 5 recieves a successful ack from server 6
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 1
+End of one iteration :65
+>> Client 5 recieves a successful ack from server 1
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 3
+End of one iteration :66
+No Acknowledgement recieved
+No Acknowledgement recieved
+No Acknowledgement recieved
+End of one iteration :67
+>> Client 5 recieves a successful ack from server 7
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 2
+End of one iteration :68
+>> Client 5 recieves a successful ack from server 7
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 2
+End of one iteration :69
+>> Client 5 recieves a successful ack from server 7
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 2
+End of one iteration :70
+>> Client 5 recieves a successful ack from server 5
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 7
+End of one iteration :71
+>> Client 5 recieves a successful ack from server 5
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 7
+End of one iteration :72
+No Acknowledgement recieved
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 6
+End of one iteration :73
+>> Client 5 recieves a successful ack from server 7
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 2
+End of one iteration :74
+>> Client 5 recieves a successful ack from server 1
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 3
+End of one iteration :75
+>> Client 5 recieves a successful ack from server 6
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 1
+End of one iteration :76
+>> Client 5 recieves a successful ack from server 1
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 3
+End of one iteration :77
+>> Client 5 recieves a successful ack from server 7
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 2
+End of one iteration :78
+No Acknowledgement recieved
+No Acknowledgement recieved
+No Acknowledgement recieved
+End of one iteration :79
+No Acknowledgement recieved
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 1
+End of one iteration :80
+>> Client 5 recieves a successful ack from server 5
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 7
+End of one iteration :81
+>> Client 5 recieves a successful ack from server 7
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 2
+End of one iteration :82
+Connection Disrupted
+>> Client 5 recieves a successful ack from server 2
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 4
+End of one iteration :84
+>> Client 5 recieves a successful ack from server 7
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 2
+End of one iteration :85
+Connection Disrupted
+>> Client 5 recieves a successful ack from server 4
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 6
+End of one iteration :87
+>> Client 5 recieves a successful ack from server 4
+No Acknowledgement recieved
+No Acknowledgement recieved
+End of one iteration :88
+>> Client 5 recieves a successful ack from server 7
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 2
+End of one iteration :89
+>> Client 5 recieves a successful ack from server 7
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 2
+End of one iteration :90
+Connection Disrupted
+>> Client 5 recieves a successful ack from server 3
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 5
+End of one iteration :92
+>> Client 5 recieves a successful ack from server 2
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 4
+End of one iteration :93
+>> Client 5 recieves a successful ack from server 1
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 3
+End of one iteration :94
+>> Client 5 recieves a successful ack from server 6
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 1
+End of one iteration :95
+>> Client 5 recieves a successful ack from server 3
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 5
+End of one iteration :96
+>> Client 5 recieves a successful ack from server 5
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 7
+End of one iteration :97
+>> Client 5 recieves a successful ack from server 3
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 5
+End of one iteration :98
+>> Client 5 recieves a successful ack from server 6
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 1
+End of one iteration :99
+>> Client 5 recieves a successful ack from server 4
+No Acknowledgement recieved
+>> Client 5 recieves a successful ack from server 6
+End of one iteration :100

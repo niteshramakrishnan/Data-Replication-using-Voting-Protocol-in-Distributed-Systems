@@ -1,0 +1,2267 @@
+
+C:\Users\Vijaychander\Desktop\CS6378 - Project 2\Server2>java Server2
+>> Server 2 Started
+f1.txt already exists.
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Client connected
+Ack recieved from server 3
+Number of votes = 2
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+No Ack recieved from server4
+>> Message read from file : Client Request
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Ack recieved from server 3
+Number of votes = 2
+Client -3 exited!!
+No Ack recieved from server4
+>> Message written to file successfully
+Client -1 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+No Ack recieved from server7
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 2
+>> Message written to file successfully
+Client -4 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -0 exited!!
+Client -3 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+No Ack recieved from server7
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 2
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+No Ack recieved from server1
+Ack recieved from server 3
+Number of votes = 2
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Ack recieved from server 3
+Number of votes = 2
+>> Server 2 recieves: Server 3 request with message id:200
+Ack recieved from server 4
+Number of votes = 3
+>> Message read from file : Client Request
+Client -3 exited!!
+Client -2 exited!!
+>> Message written to file successfully
+>> Server 2 recieves: Server 4 request with message id:200
+Client -3 exited!!
+Client -4 exited!!
+Client -2 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Client connected
+Client -0 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Server 4 request with message id:200
+Client -3 exited!!
+Client -4 exited!!
+Ack recieved from server 3
+Number of votes = 2
+Ack recieved from server 4
+Number of votes = 3
+>> Message read from file : Client Request
+Client -2 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Server 4 request with message id:200
+Client -3 exited!!
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+Ack recieved from server 7
+Number of votes = 2
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+Ack recieved from server 1
+Number of votes = 3
+>> Client connected
+>> Message read from file : Client Request
+Client -7 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Client -3 exited!!
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+No Ack recieved from server1
+No Ack recieved from server3
+Not enough votes
+Client -1 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+No Ack recieved from server7
+Ack recieved from server 1
+Number of votes = 2
+>> Message written to file successfully
+Client -4 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+>> Client connected
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+Ack recieved from server 3
+Number of votes = 2
+>> Server 2 recieves: Server 4 request with message id:200
+>> Server 2 recieves: Server 1 request with message id:200
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Client 2 request with message id:100
+Client -3 exited!!
+Client -1 exited!!
+Client -4 exited!!
+Ack recieved from server 4
+Number of votes = 3
+Client -7 exited!!
+>> Message written to file successfully
+Ack recieved from server 7
+Number of votes = 2
+Client -3 exited!!
+Ack recieved from server 1
+Number of votes = 3
+>> Message read from file : Client Request
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+No Ack recieved from server3
+Ack recieved from server 4
+Number of votes = 2
+>> Message read from file : Client Request
+Client -5 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+No Ack recieved from server1
+Ack recieved from server 3
+Number of votes = 2
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Message read from file : Client Request
+Client -4 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Server 1 request with message id:200
+Client -3 exited!!
+Client -1 exited!!
+Client -3 exited!!
+Ack recieved from server 1
+Number of votes = 2
+Ack recieved from server 1
+Number of votes = 2
+Ack recieved from server 3
+Number of votes = 3
+Ack recieved from server 3
+Number of votes = 3
+>> Message written to file successfully
+>> Message written to file successfully
+Client -3 exited!!
+Client -2 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+Ack recieved from server 7
+Number of votes = 2
+Ack recieved from server 1
+Number of votes = 3
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Server 1 request with message id:200
+Client -3 exited!!
+Client -1 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+Ack recieved from server 3
+Number of votes = 2
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+Ack recieved from server 4
+Number of votes = 3
+>> Server 2 recieves: Server 3 request with message id:200
+>> Message read from file : Client Request
+Client -3 exited!!
+Client -2 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 2
+No Ack recieved from server3
+>> Message written to file successfully
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+>> Client connected
+Ack recieved from server 3
+Number of votes = 2
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Server 4 request with message id:200
+Client -3 exited!!
+Client -4 exited!!
+Ack recieved from server 4
+Number of votes = 3
+>> Message read from file : Client Request
+Client -3 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+java.net.SocketException: Software caused connection abort: recv failed
+Not enough votes
+Client -1 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Server 4 request with message id:200
+Client -3 exited!!
+Client -4 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Server 2 recieves: Server 1 request with message id:200
+>> Client connected
+Client -1 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+Ack recieved from server 1
+Number of votes = 2
+Ack recieved from server 3
+Number of votes = 3
+>> Message read from file : Client Request
+Client -3 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+Ack recieved from server 7
+Number of votes = 2
+No Ack recieved from server1
+>> Message written to file successfully
+Client -5 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 2
+Ack recieved from server 3
+Number of votes = 3
+>> Message written to file successfully
+Client -3 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+Ack recieved from server 7
+Number of votes = 2
+No Ack recieved from server1
+>> Message written to file successfully
+Client -5 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+>> Server 2 recieves: Server 1 request with message id:200
+Client -7 exited!!
+Client -1 exited!!
+>> Client connected
+>> Client connected
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Server 2 recieves: Server 1 request with message id:200
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+Client -1 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+Ack recieved from server 1
+Number of votes = 2
+>> Server 2 recieves: Server 3 request with message id:200
+Ack recieved from server 1
+Number of votes = 2
+Ack recieved from server 3
+Number of votes = 3
+>> Message written to file successfully
+Client -3 exited!!
+Client -3 exited!!
+Ack recieved from server 3
+Number of votes = 3
+>> Message read from file : Client Request
+Client -2 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+No Ack recieved from server7
+Ack recieved from server 1
+Number of votes = 2
+>> Message read from file : Client Request
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+>> Client connected
+Client -1 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+Ack recieved from server 1
+Number of votes = 2
+Ack recieved from server 3
+Number of votes = 3
+>> Message written to file successfully
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+Ack recieved from server 7
+Number of votes = 2
+Client -7 exited!!
+No Ack recieved from server1
+>> Message read from file : Client Request
+Client -5 exited!!
+>> Client connected
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Server 2 recieves: Client 2 request with message id:100
+Ack recieved from server 7
+Number of votes = 2
+>> Server 2 recieves: Server 7 request with message id:200
+>> Client connected
+>> Client connected
+Client -7 exited!!
+Ack recieved from server 1
+Number of votes = 3
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+>> Message read from file : Client Request
+>> Server 2 recieves: Server 7 request with message id:200
+Ack recieved from server 7
+Number of votes = 2
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+Client -3 exited!!
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 3
+Client -7 exited!!
+>> Message read from file : Client Request
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+Ack recieved from server 7
+Number of votes = 2
+No Ack recieved from server1
+>> Message read from file : Client Request
+Client -5 exited!!
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 2
+No Ack recieved from server3
+>> Message written to file successfully
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+No Ack recieved from server7
+Ack recieved from server 1
+Number of votes = 2
+>> Message written to file successfully
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+>> Server 2 recieves: Server 1 request with message id:200
+Client -7 exited!!
+Client -1 exited!!
+Ack recieved from server 7
+Number of votes = 2
+Ack recieved from server 1
+Number of votes = 3
+>> Message read from file : Client Request
+Client -3 exited!!
+>> Client connected
+>> Client connected
+Client -0 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+>> Client connected
+Ack recieved from server 7
+Number of votes = 2
+>> Server 2 recieves: Server 7 request with message id:200
+Ack recieved from server 1
+Number of votes = 3
+Client -7 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Message read from file : Client Request
+Client -3 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+Ack recieved from server 3
+Number of votes = 2
+>> Client connected
+No Ack recieved from server4
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Message read from file : Client Request
+Client -1 exited!!
+>> Client connected
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Server 2 recieves: Server 1 request with message id:200
+>> Server 2 recieves: Server 7 request with message id:200
+Client -1 exited!!
+Ack recieved from server 7
+Number of votes = 2
+Client -7 exited!!
+Ack recieved from server 1
+Number of votes = 3
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+No Ack recieved from server1
+No Ack recieved from server3
+Not enough votes
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+No Ack recieved from server1
+Ack recieved from server 3
+Number of votes = 2
+>> Message read from file : Client Request
+Client -4 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+Ack recieved from server 3
+Number of votes = 2
+No Ack recieved from server4
+>> Message written to file successfully
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+>> Server 2 recieves: Server 1 request with message id:200
+>> Client connected
+Client -7 exited!!
+Ack recieved from server 7
+Number of votes = 2
+Client -1 exited!!
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+Ack recieved from server 1
+Number of votes = 3
+>> Server 2 recieves: Server 7 request with message id:200
+>> Message read from file : Client Request
+Ack recieved from server 7
+Number of votes = 2
+>> Client connected
+Client -7 exited!!
+Client -2 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 3
+>> Message written to file successfully
+Client -3 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+No Ack recieved from server1
+Ack recieved from server 3
+Number of votes = 2
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Message read from file : Client Request
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+No Ack recieved from server3
+>> Client connected
+Ack recieved from server 4
+Number of votes = 2
+>> Server 2 recieves: Server 4 request with message id:200
+>> Message written to file successfully
+Client -4 exited!!
+Client -5 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Server 2 recieves: Server 7 request with message id:200
+>> Client connected
+Client -7 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+Ack recieved from server 7
+Number of votes = 2
+Ack recieved from server 1
+Number of votes = 3
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Client connected
+Client -0 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+Ack recieved from server 3
+Number of votes = 2
+>> Server 2 recieves: Server 4 request with message id:200
+Ack recieved from server 4
+Number of votes = 3
+Client -4 exited!!
+>> Message read from file : Client Request
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+Ack recieved from server 1
+Number of votes = 2
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+Ack recieved from server 3
+Number of votes = 3
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+Ack recieved from server 3
+Number of votes = 2
+No Ack recieved from server4
+>> Message written to file successfully
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+Client -3 exited!!
+Ack recieved from server 3
+Number of votes = 2
+Ack recieved from server 4
+Number of votes = 3
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+Ack recieved from server 3
+Number of votes = 2
+No Ack recieved from server4
+>> Message read from file : Client Request
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 2
+>> Client connected
+Ack recieved from server 3
+Number of votes = 3
+>> Server 2 recieves: Server 3 request with message id:200
+>> Message written to file successfully
+Client -3 exited!!
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+>> Client connected
+No Ack recieved from server3
+Ack recieved from server 4
+Number of votes = 2
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+>> Message written to file successfully
+Client -5 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Server 4 request with message id:200
+Client -3 exited!!
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+Ack recieved from server 7
+Number of votes = 2
+No Ack recieved from server1
+>> Message written to file successfully
+Client -5 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 4 request with message id:200
+>> Server 2 recieves: Server 3 request with message id:200
+Client -4 exited!!
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Ack recieved from server 3
+Number of votes = 2
+>> Server 2 recieves: Server 4 request with message id:200
+Client -3 exited!!
+Client -4 exited!!
+Ack recieved from server 4
+Number of votes = 3
+>> Message written to file successfully
+Client -3 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Server 2 recieves: Client 1 request with message id:100
+Ack recieved from server 3
+Number of votes = 2
+No Ack recieved from server4
+>> Message read from file : Client Request
+Client -1 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Server 4 request with message id:200
+Ack recieved from server 3
+Number of votes = 2
+Client -4 exited!!
+Client -3 exited!!
+Ack recieved from server 4
+Number of votes = 3
+>> Message read from file : Client Request
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+No Ack recieved from server1
+Ack recieved from server 3
+Number of votes = 2
+>> Message written to file successfully
+Client -4 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Ack recieved from server 7
+Number of votes = 2
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 3
+>> Message read from file : Client Request
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+>> Client connected
+java.net.SocketException: Software caused connection abort: recv failed
+Not enough votes
+Client -5 exited!!
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+No Ack recieved from server7
+No Ack recieved from server1
+Not enough votes
+Client -5 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+No Ack recieved from server7
+Ack recieved from server 1
+Number of votes = 2
+>> Message written to file successfully
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+Ack recieved from server 1
+Number of votes = 2
+Ack recieved from server 3
+Number of votes = 3
+>> Message read from file : Client Request
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 2
+No Ack recieved from server3
+>> Message written to file successfully
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Client 2 request with message id:100
+Client -3 exited!!
+>> Client connected
+>> Client connected
+Ack recieved from server 1
+Number of votes = 2
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Server 1 request with message id:200
+Client -3 exited!!
+Ack recieved from server 3
+Number of votes = 3
+Client -1 exited!!
+>> Message read from file : Client Request
+Client -3 exited!!
+Ack recieved from server 1
+Number of votes = 2
+Ack recieved from server 3
+Number of votes = 3
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Client connected
+Client -0 exited!!
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+No Ack recieved from server7
+Ack recieved from server 1
+Number of votes = 2
+>> Message written to file successfully
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+>> Client connected
+Client -0 exited!!
+No Ack recieved from server3
+Ack recieved from server 4
+Number of votes = 2
+>> Message read from file : Client Request
+Client -5 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+>> Client connected
+Client -7 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+>> Server 2 recieves: Server 7 request with message id:200
+Client -1 exited!!
+Client -7 exited!!
+Ack recieved from server 7
+Number of votes = 2
+Ack recieved from server 1
+Number of votes = 3
+>> Message read from file : Client Request
+Client -2 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 2
+No Ack recieved from server3
+>> Message read from file : Client Request
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+Ack recieved from server 3
+Number of votes = 2
+>> Client connected
+>> Server 2 recieves: Server 4 request with message id:200
+Ack recieved from server 4
+Number of votes = 3
+>> Server 2 recieves: Server 3 request with message id:200
+Client -4 exited!!
+Client -3 exited!!
+>> Message read from file : Client Request
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+No Ack recieved from server3
+Ack recieved from server 4
+Number of votes = 2
+>> Message read from file : Client Request
+Client -5 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+Ack recieved from server 7
+Number of votes = 2
+Ack recieved from server 1
+Number of votes = 3
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+No Ack recieved from server3
+>> Client connected
+Ack recieved from server 4
+Number of votes = 2
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+>> Message written to file successfully
+Client -5 exited!!
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 2
+No Ack recieved from server3
+>> Message read from file : Client Request
+>> Client connected
+Client -1 exited!!
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+No Ack recieved from server1
+Ack recieved from server 3
+Number of votes = 2
+>> Message read from file : Client Request
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+Ack recieved from server 1
+Number of votes = 2
+No Ack recieved from server3
+>> Client connected
+No Ack recieved from server1
+>> Server 2 recieves: Server 3 request with message id:200
+>> Message read from file : Client Request
+Ack recieved from server 3
+Number of votes = 2
+Client -3 exited!!
+>> Message written to file successfully
+Client -1 exited!!
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+Ack recieved from server 7
+Number of votes = 2
+Client -7 exited!!
+No Ack recieved from server1
+>> Message read from file : Client Request
+Client -5 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+No Ack recieved from server1
+Client -3 exited!!
+Ack recieved from server 3
+Number of votes = 2
+Ack recieved from server 3
+Number of votes = 2
+No Ack recieved from server4
+>> Message read from file : Client Request
+>> Message written to file successfully
+Client -4 exited!!
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+>> Client connected
+No Ack recieved from server3
+Ack recieved from server 4
+Number of votes = 2
+>> Server 2 recieves: Server 4 request with message id:200
+>> Message written to file successfully
+Client -4 exited!!
+Client -5 exited!!
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+Ack recieved from server 3
+Number of votes = 2
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Ack recieved from server 4
+Number of votes = 3
+>> Server 2 recieves: Server 4 request with message id:200
+Client -3 exited!!
+Client -4 exited!!
+>> Client connected
+>> Message written to file successfully
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+Client -3 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+>> Client connected
+Client -1 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+Ack recieved from server 1
+Number of votes = 2
+Ack recieved from server 3
+Number of votes = 3
+>> Message read from file : Client Request
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 2
+No Ack recieved from server3
+>> Message written to file successfully
+Client -1 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Server 2 recieves: Server 1 request with message id:200
+>> Client connected
+Client -1 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+Ack recieved from server 1
+Number of votes = 2
+Ack recieved from server 3
+Number of votes = 3
+>> Client connected
+>> Message written to file successfully
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+Client -3 exited!!
+>> Server 2 recieves: Server 7 request with message id:200
+>> Client connected
+Ack recieved from server 7
+Number of votes = 2
+Client -7 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 3
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+Ack recieved from server 3
+Number of votes = 2
+>> Server 2 recieves: Client 4 request with message id:100
+No Ack recieved from server4
+>> Client connected
+>> Message written to file successfully
+Client -1 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+No Ack recieved from server7
+Ack recieved from server 1
+Number of votes = 2
+>> Message written to file successfully
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+>> Client connected
+Ack recieved from server 3
+Number of votes = 2
+>> Server 2 recieves: Server 4 request with message id:200
+>> Server 2 recieves: Server 3 request with message id:200
+Client -4 exited!!
+Ack recieved from server 4
+Number of votes = 3
+Client -3 exited!!
+>> Message written to file successfully
+Client -3 exited!!
+>> Client connected
+>> Client connected
+Client -0 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+No Ack recieved from server1
+Ack recieved from server 3
+Number of votes = 2
+>> Message written to file successfully
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Server 4 request with message id:200
+Ack recieved from server 3
+Number of votes = 2
+Client -4 exited!!
+Ack recieved from server 4
+Number of votes = 3
+>> Message written to file successfully
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+Ack recieved from server 7
+Number of votes = 2
+No Ack recieved from server1
+>> Message read from file : Client Request
+Client -5 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Ack recieved from server 3
+Number of votes = 2
+No Ack recieved from server4
+java.net.SocketException: Software caused connection abort: recv failed
+>> Message read from file : Client Request
+Client -3 exited!!
+Client -1 exited!!
+Not enough votes
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Server 4 request with message id:200
+Ack recieved from server 3
+Number of votes = 2
+Client -3 exited!!
+Ack recieved from server 4
+Number of votes = 3
+Client -4 exited!!
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+Ack recieved from server 3
+Number of votes = 2
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+No Ack recieved from server4
+No Ack recieved from server7
+>> Message read from file : Client Request
+Ack recieved from server 1
+Number of votes = 2
+Client -1 exited!!
+>> Message read from file : Client Request
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+>> Server 2 recieves: Server 1 request with message id:200
+Client -7 exited!!
+Client -1 exited!!
+Ack recieved from server 7
+Number of votes = 2
+Ack recieved from server 1
+Number of votes = 3
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+>> Client connected
+Ack recieved from server 7
+Number of votes = 2
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 3
+>> Message read from file : Client Request
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+No Ack recieved from server1
+Ack recieved from server 3
+Number of votes = 2
+>> Message written to file successfully
+Client -4 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Server 2 recieves: Server 1 request with message id:200
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Server 4 request with message id:200
+>> Client connected
+Client -4 exited!!
+Client -3 exited!!
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 2
+>> Server 2 recieves: Server 3 request with message id:200
+Ack recieved from server 3
+Number of votes = 2
+Client -3 exited!!
+Ack recieved from server 4
+Number of votes = 3
+>> Message read from file : Client Request
+Ack recieved from server 3
+Number of votes = 3
+Client -3 exited!!
+>> Message read from file : Client Request
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+>> Client connected
+Client -0 exited!!
+No Ack recieved from server3
+Ack recieved from server 4
+Number of votes = 2
+>> Message read from file : Client Request
+Client -5 exited!!
+>> Client connected
+>> Client connected
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Client connected
+Client -0 exited!!
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+>> Server 2 recieves: Server 7 request with message id:200
+>> Server 2 recieves: Server 3 request with message id:200
+Client -7 exited!!
+>> Client connected
+Client -3 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Server 2 recieves: Server 1 request with message id:200
+>> Client connected
+Client -1 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+Ack recieved from server 1
+Number of votes = 2
+Ack recieved from server 3
+Number of votes = 3
+>> Message read from file : Client Request
+Client -2 exited!!
+>> Client connected
+>> Client connected
+Client -0 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Ack recieved from server 3
+Number of votes = 2
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+Ack recieved from server 4
+Number of votes = 3
+>> Message read from file : Client Request
+Client -3 exited!!
+>> Client connected
+>> Client connected
+Client -0 exited!!
+>> Server 2 recieves: Server 4 request with message id:200
+>> Client connected
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Client 5 request with message id:100
+Client -3 exited!!
+>> Client connected
+Ack recieved from server 7
+Number of votes = 2
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+No Ack recieved from server1
+>> Message read from file : Client Request
+Client -5 exited!!
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+java.net.SocketException: Software caused connection abort: recv failed
+Not enough votes
+>> Client connected
+Client -3 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Client connected
+Client -0 exited!!
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Client connected
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+>> Server 2 recieves: Server 1 request with message id:200
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Server 2 recieves: Client 5 request with message id:100
+Ack recieved from server 7
+Number of votes = 2
+>> Client connected
+Client -1 exited!!
+Client -7 exited!!
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+Ack recieved from server 7
+Number of votes = 2
+Ack recieved from server 1
+Number of votes = 3
+>> Message read from file : Client Request
+Client -4 exited!!
+Ack recieved from server 1
+Number of votes = 3
+>> Message read from file : Client Request
+Client -5 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+Ack recieved from server 1
+Number of votes = 2
+>> Server 2 recieves: Server 1 request with message id:200
+Ack recieved from server 3
+Number of votes = 3
+Client -1 exited!!
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+>> Server 2 recieves: Client 5 request with message id:100
+Client -7 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+Ack recieved from server 7
+Number of votes = 2
+>> Client connected
+No Ack recieved from server1
+>> Message read from file : Client Request
+Client -5 exited!!
+Ack recieved from server 7
+Number of votes = 2
+>> Server 2 recieves: Server 7 request with message id:200
+>> Client connected
+Client -7 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Ack recieved from server 1
+Number of votes = 3
+Client -1 exited!!
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+>> Server 2 recieves: Server 1 request with message id:200
+>> Server 2 recieves: Server 7 request with message id:200
+Client -1 exited!!
+Client -7 exited!!
+Client -1 exited!!
+Ack recieved from server 7
+Number of votes = 2
+>> Client connected
+Ack recieved from server 1
+Number of votes = 3
+>> Server 2 recieves: Server 7 request with message id:200
+>> Message written to file successfully
+Client -7 exited!!
+Client -2 exited!!
+Ack recieved from server 7
+Number of votes = 2
+Ack recieved from server 1
+Number of votes = 3
+>> Message read from file : Client Request
+Client -3 exited!!
+>> Client connected
+>> Client connected
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+Client -0 exited!!
+>> Server 2 recieves: Client 2 request with message id:100
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Server 3 request with message id:200
+>> Client connected
+Client -3 exited!!
+Client -3 exited!!
+>> Server 2 recieves: Server 4 request with message id:200
+>> Client connected
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Ack recieved from server 1
+Number of votes = 2
+Ack recieved from server 3
+Number of votes = 3
+Client -1 exited!!
+Ack recieved from server 3
+Number of votes = 2
+Ack recieved from server 4
+Number of votes = 3
+>> Message written to file successfully
+Client -2 exited!!
+>> Message read from file : Client Request
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+>> Client connected
+Ack recieved from server 7
+Number of votes = 2
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+No Ack recieved from server1
+>> Message read from file : Client Request
+Client -5 exited!!
+>> Client connected
+>> Client connected
+Client -0 exited!!
+Client -0 exited!!
+>> Client connected
+>> Client connected
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+Client -3 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Server 2 recieves: Server 7 request with message id:200
+>> Client connected
+Client -7 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Ack recieved from server 7
+Number of votes = 2
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 3
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+>> Client connected
+Client -0 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+>> Client connected
+Client -1 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Client connected
+Ack recieved from server 3
+Number of votes = 2
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+No Ack recieved from server4
+>> Message written to file successfully
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+No Ack recieved from server1
+>> Server 2 recieves: Server 3 request with message id:200
+Ack recieved from server 3
+Number of votes = 2
+Client -3 exited!!
+>> Message written to file successfully
+Client -4 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+Ack recieved from server 7
+Number of votes = 2
+No Ack recieved from server1
+>> Message written to file successfully
+Client -5 exited!!
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+Ack recieved from server 3
+Number of votes = 2
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+Ack recieved from server 4
+Number of votes = 3
+>> Message written to file successfully
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 2
+>> Client connected
+No Ack recieved from server3
+Client -0 exited!!
+>> Message read from file : Client Request
+>> Client connected
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+Ack recieved from server 7
+Number of votes = 2
+Ack recieved from server 1
+Number of votes = 3
+>> Server 2 recieves: Server 1 request with message id:200
+>> Server 2 recieves: Server 7 request with message id:200
+>> Message read from file : Client Request
+Client -1 exited!!
+Client -7 exited!!
+Client -2 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 2
+No Ack recieved from server3
+>> Message read from file : Client Request
+Client -1 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+Client -1 exited!!
+Ack recieved from server 7
+Number of votes = 2
+>> Server 2 recieves: Server 7 request with message id:200
+Ack recieved from server 7
+Number of votes = 2
+Client -7 exited!!
+Ack recieved from server 1
+Number of votes = 3
+>> Message read from file : Client Request
+Client -2 exited!!
+Ack recieved from server 1
+Number of votes = 3
+>> Message written to file successfully
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+>> Client connected
+Ack recieved from server 3
+Number of votes = 2
+Client -0 exited!!
+>> Server 2 recieves: Server 4 request with message id:200
+Ack recieved from server 4
+Number of votes = 3
+Client -4 exited!!
+>> Message read from file : Client Request
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+Ack recieved from server 7
+Number of votes = 2
+Client -7 exited!!
+No Ack recieved from server1
+>> Message read from file : Client Request
+Client -5 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+No Ack recieved from server1
+Ack recieved from server 3
+Number of votes = 2
+>> Message read from file : Client Request
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+No Ack recieved from server3
+>> Client connected
+Ack recieved from server 4
+Number of votes = 2
+>> Server 2 recieves: Server 4 request with message id:200
+>> Message written to file successfully
+Client -4 exited!!
+Client -5 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Server 2 recieves: Server 1 request with message id:200
+>> Client connected
+Client -1 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+Ack recieved from server 1
+Number of votes = 2
+Ack recieved from server 3
+Number of votes = 3
+>> Message written to file successfully
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+Ack recieved from server 7
+Number of votes = 2
+No Ack recieved from server1
+>> Message written to file successfully
+Client -5 exited!!
+>> Client connected
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Server 2 recieves: Server 7 request with message id:200
+>> Server 2 recieves: Server 1 request with message id:200
+Client -7 exited!!
+Ack recieved from server 7
+Number of votes = 2
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 3
+>> Message read from file : Client Request
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+No Ack recieved from server1
+Ack recieved from server 3
+Number of votes = 2
+>> Message read from file : Client Request
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+>> Client connected
+Ack recieved from server 7
+Number of votes = 2
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+No Ack recieved from server1
+>> Message read from file : Client Request
+Client -5 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+No Ack recieved from server7
+Ack recieved from server 1
+Number of votes = 2
+>> Message read from file : Client Request
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+>> Client connected
+Client -1 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Ack recieved from server 1
+Number of votes = 2
+Client -3 exited!!
+Ack recieved from server 3
+Number of votes = 3
+>> Message read from file : Client Request
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+Ack recieved from server 7
+Number of votes = 2
+No Ack recieved from server1
+>> Message written to file successfully
+Client -5 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+No Ack recieved from server7
+Ack recieved from server 1
+Number of votes = 2
+>> Message written to file successfully
+Client -4 exited!!
+>> Client connected
+>> Client connected
+Client -0 exited!!
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 5 request with message id:100
+>> Client connected
+No Ack recieved from server3
+Ack recieved from server 4
+Number of votes = 2
+>> Server 2 recieves: Server 4 request with message id:200
+>> Message read from file : Client Request
+Client -4 exited!!
+Client -5 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+No Ack recieved from server7
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 2
+>> Message read from file : Client Request
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+Ack recieved from server 7
+Number of votes = 2
+>> Server 2 recieves: Server 1 request with message id:200
+Client -7 exited!!
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 3
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Client connected
+Ack recieved from server 3
+Number of votes = 2
+>> Server 2 recieves: Server 3 request with message id:200
+No Ack recieved from server4
+Client -3 exited!!
+>> Message written to file successfully
+Client -1 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+>> Client connected
+Client -3 exited!!
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+>> Client connected
+Client -1 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 2
+No Ack recieved from server3
+>> Message read from file : Client Request
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+No Ack recieved from server1
+Ack recieved from server 3
+Number of votes = 2
+>> Message read from file : Client Request
+Client -4 exited!!
+>> Client connected
+>> Client connected
+Client -0 exited!!
+>> Server 2 recieves: Server 7 request with message id:200
+>> Client connected
+Client -7 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+>> Server 2 recieves: Server 3 request with message id:200
+Client -1 exited!!
+Client -3 exited!!
+Ack recieved from server 1
+Number of votes = 2
+Ack recieved from server 3
+Number of votes = 3
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+java.net.SocketException: Software caused connection abort: recv failed
+Not enough votes
+>> Client connected
+Client -1 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+Ack recieved from server 1
+Number of votes = 2
+Ack recieved from server 3
+Number of votes = 3
+>> Message written to file successfully
+Client -3 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Server 2 recieves: Server 1 request with message id:200
+>> Client connected
+Client -1 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+Ack recieved from server 1
+Number of votes = 2
+Ack recieved from server 3
+Number of votes = 3
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+No Ack recieved from server1
+Ack recieved from server 3
+Number of votes = 2
+>> Message written to file successfully
+Client -4 exited!!
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+>> Server 2 recieves: Server 4 request with message id:200
+Client -3 exited!!
+Client -4 exited!!
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+Ack recieved from server 1
+Number of votes = 2
+Ack recieved from server 3
+Number of votes = 3
+>> Message written to file successfully
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Ack recieved from server 7
+Number of votes = 2
+Client -1 exited!!
+Ack recieved from server 1
+Number of votes = 3
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+>> Client connected
+Client -0 exited!!
+>> Server 2 recieves: Server 7 request with message id:200
+>> Client connected
+Client -7 exited!!
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Ack recieved from server 3
+Number of votes = 2
+>> Server 2 recieves: Server 4 request with message id:200
+Client -3 exited!!
+Client -4 exited!!
+Ack recieved from server 4
+Number of votes = 3
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 3 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+Ack recieved from server 1
+Number of votes = 2
+Ack recieved from server 3
+Number of votes = 3
+>> Message written to file successfully
+Client -3 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+>> Server 2 recieves: Server 7 request with message id:200
+Client -7 exited!!
+Ack recieved from server 7
+Number of votes = 2
+Ack recieved from server 1
+Number of votes = 3
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 1 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Ack recieved from server 3
+Number of votes = 2
+Client -3 exited!!
+No Ack recieved from server4
+>> Message written to file successfully
+Client -1 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 1 request with message id:200
+Client -1 exited!!
+No Ack recieved from server7
+Ack recieved from server 1
+Number of votes = 2
+>> Message read from file : Client Request
+Client -4 exited!!
+>> Client connected
+>> Server 2 recieves: Client 2 request with message id:100
+>> Client connected
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+Ack recieved from server 3
+Number of votes = 2
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+Ack recieved from server 4
+Number of votes = 3
+>> Message written to file successfully
+Client -2 exited!!
+>> Client connected
+>> Server 2 recieves: Client 4 request with message id:100
+>> Client connected
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!
+No Ack recieved from server1
+Ack recieved from server 3
+Number of votes = 2
+>> Message read from file : Client Request
+Client -4 exited!!
+>> Client connected
+>> Client connected
+Client -0 exited!!
+>> Client connected
+>> Server 2 recieves: Server 4 request with message id:200
+Client -4 exited!!
+>> Server 2 recieves: Server 3 request with message id:200
+Client -3 exited!!

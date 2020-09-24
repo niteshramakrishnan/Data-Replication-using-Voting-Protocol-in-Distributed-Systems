@@ -1,0 +1,15 @@
+Client no	UTD dcxx Machines
+	1	dc10.utdallas.edu
+	2	dc11.utdallas.edu
+	3	dc12.utdallas.edu
+	4	dc13.utdallas.edu
+	5	dc14.utdallas.edu
+
+Server no	UTD dcxx Machines	Port no
+	1	dc15.utdallas.edu	9991
+	2	dc16.utdallas.edu	9992
+	3	dc17.utdallas.edu	9993
+	4	dc18.utdallas.edu	9994
+	5	dc19.utdallas.edu	9995
+	6	dc20.utdallas.edu	9996
+	7	dc21.utdallas.edu	9997
